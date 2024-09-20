@@ -1,0 +1,3 @@
+[submodule "developers.naver"]
+	path = developers.naver
+	url = https://github.com/reeyounghyun/developers.naver.git
