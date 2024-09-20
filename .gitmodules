@@ -1,3 +1,6 @@
 [submodule "developers.naver"]
 	path = developers.naver
 	url = https://github.com/reeyounghyun/developers.naver.git
+[submodule "clone-tving"]
+	path = clone-tving
+	url = https://github.com/reeyounghyun/clone-tving.git
