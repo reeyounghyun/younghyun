@@ -4,3 +4,6 @@
 [submodule "clone-tving"]
 	path = clone-tving
 	url = https://github.com/reeyounghyun/clone-tving.git
+[submodule "tiffany.Korean"]
+	path = tiffany.Korean
+	url = https://github.com/reeyounghyun/tiffany.Korean.git
