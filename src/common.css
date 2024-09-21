@@ -108,7 +108,7 @@ footer h2::after {display: none;}
 	}
 }
 
-/* 814 이하 */
+/* 990px 이하 */
 @media screen and (max-width: 990px) {
 	/* common */
 	h2 {padding: 40px 0;}
@@ -130,7 +130,7 @@ footer h2::after {display: none;}
 	.portfolio .portfolio_list > li:nth-child(9) .portfolio_cont {padding-top: 8%;}
 }
 
-/* 414 이하 */
+/* 768px 이하 */
 @media screen and (max-width: 768px) {
 	/* common */
 	h2 {font-size: 28px;}
@@ -166,6 +166,12 @@ footer h2::after {display: none;}
 	font-size: 14px;
 	line-height: 1.37;
 	color: #585858;
+}
+
+@media screen and (max-width:1024px) {
+	.accordion-content p{
+		text-align: left;
+	}
 }
 
 .accordion-content p span{
